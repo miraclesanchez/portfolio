@@ -38,7 +38,7 @@ p, h1 {
   justify-content: center;
   flex-direction: row;
   background-color: #282d35;
-}
+} 
 
 .nav li {
   padding: 5px 80px;
@@ -54,7 +54,7 @@ p, h1 {
 
 /* Intro and Image */
 .intro{
-  margin-top: 20%;
+  margin-top: 10%;
   text-align: center;
   justify-content: space-between;
   padding: 10px 40px;
@@ -241,13 +241,9 @@ p, h1 {
 }
 
 @media screen and (max-width: 600px){
-  .bio{
-    margin-top: 50%;
-    margin-bottom: 30%;
-  }
-
-  .skills{
-    padding-bottom: 50px;
+  .intro{
+    margin-top: 20%;
+    margin-bottom: 5%;
   }
   .seperate-tech {
     display: flex;
@@ -362,31 +358,53 @@ p, h1 {
     align-items: center;
   }
 
-  .menu-logo {
-    width: 30px;
-    cursor: pointer;
-    display: block;
+  .my-logo {
+    width: 15%;
+    top: 23%;
+    left: 5px;
   }
 
-  .nav ul {
+  .nav ul li {
+    font-size: 20px;
+    padding: 5px 30px;    
+  }
+
+.nav ul{
     display: flex;
-    flex-direction: column;
-    background-color: aquamarine;
+  }
+
+  /* .my-logo {
+    display: block;
+    width: 55px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+  } */
+
+  /* .menu-logo {
+    display: block;
+    width: 30px;
+    position: absolute;
+    right: 35px;
+
+  }
+
+  .menu-items {
+    background: #7fffd4;
     position: fixed;
     top: 0;
-    right: 0;
-    width: 150px;
+    right: -300px;
+    width: 200px;
     height: 100vh;
-    padding-top: 50px;
-  }
-
-  .nav a {
-    color: #2b3f5e;
     align-items: center;
   }
-  .nav ul li {
+
+  .menu-items li {
     display: block;
     margin: 25px;
-  }
+
+  } */
+
+
 }
 
