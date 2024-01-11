@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f730d957.css",
+    "main.css": "/portfolio/static/css/main.2de00ee2.css",
     "main.js": "/portfolio/static/js/main.ed8480ed.js",
     "static/media/soccer-world.png": "/portfolio/static/media/soccer-world.c421894bce33ae5de21e.png",
     "static/media/Miracle-Sanchez-Resume-Web.pdf": "/portfolio/static/media/Miracle-Sanchez-Resume-Web.1cba0d499f3514502e26.pdf",
     "static/media/number-game-demo.png": "/portfolio/static/media/number-game-demo.5d8b510805b6a4b3ed30.png",
     "index.html": "/portfolio/index.html",
-    "main.f730d957.css.map": "/portfolio/static/css/main.f730d957.css.map",
+    "main.2de00ee2.css.map": "/portfolio/static/css/main.2de00ee2.css.map",
     "main.ed8480ed.js.map": "/portfolio/static/js/main.ed8480ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.f730d957.css",
+    "static/css/main.2de00ee2.css",
     "static/js/main.ed8480ed.js"
   ]
 }
