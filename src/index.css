@@ -409,6 +409,10 @@ p, h1 {
 }
 
 @media screen and (max-width: 500px){
+  .intro {
+    margin-top: 30%;
+    padding-bottom: 30%;
+  }
   .my-logo {
     top: 30%;
   }
@@ -420,18 +424,22 @@ p, h1 {
 .nav ul{
     display: flex;
   }
-}
 
-.projects {
-  margin-bottom: 60%;
-}
-
-.bio-text {
-  padding-bottom: 80%;
-}
-
-.contact-info {
-  justify-content: center;
+  .front-end-list p{
+    margin-left: 10px;
+  }
+  
+  .front-end-list li{
+    width: 30px;
+  }
+  
+  .projects {
+    margin-bottom: 60%;
+  }
+  
+  .bio-text {
+    padding-bottom: 80%;
+  }
 }
 
 
