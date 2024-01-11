@@ -408,3 +408,30 @@ p, h1 {
 
 }
 
+@media screen and (max-width: 500px){
+  .my-logo {
+    top: 30%;
+  }
+  .nav ul li {
+    font-size: 20px;
+    padding: 5px 18px;    
+  }
+
+.nav ul{
+    display: flex;
+  }
+}
+
+.projects {
+  margin-bottom: 60%;
+}
+
+.bio-text {
+  padding-bottom: 80%;
+}
+
+.contact-info {
+  justify-content: center;
+}
+
+
