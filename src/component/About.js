@@ -18,7 +18,7 @@ export default function About (){
                             <h1 className="about-title">About <span>Me</span></h1>
                             <p> Immersed in the dynamic world of web development and data analytics, I find joy in crafting innovative solutions and exploring the endless possibilities of technology.
                             <br/><br/>
-                            Beyond the digital realm, I lead an active lifestyle. Whether I'm out for a run or reading a new book, I constantly seek new challenges and sources of inspiration. Currently, I'm honing my endurance to conquer a continuous 5-kilometer run, with my sights set on participating in the exhilarating NYC Marathon in 2025! </p>
+                            Beyond the digital realm, I lead an active lifestyle. Whether I'm out for a run or reading a new book, I constantly seek new challenges and sources of inspiration. Currently, I'm honing my endurance to conquer a continuous 5-kilometer run, with my sights set on participating in the exhilarating NYC Marathon in 2026! </p>
                     </div>
                 </div>
         </div>
